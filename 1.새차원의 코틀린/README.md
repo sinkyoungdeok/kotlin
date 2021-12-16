@@ -7,6 +7,10 @@
 
 <details><summary>자세히 보기</summary>
 
+### 코틀린 설치 (Mac OS)
+- brew install adoptopenjdk8
+- brew install kotlin
+
 </details>
 
 ## Basic Syntax
