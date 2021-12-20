@@ -7,6 +7,18 @@
 
 <details><summary> 자세히 보기 </summary>
 
+### Coroutine
+- 코루틴(coroutine)은 루틴의 일종
+- 협동 루틴이라 할 수 있다
+- 코루틴의 "Co"는 with 또는 together를 뜻한다.
+
+- 코루틴은 이전에 자신의 실행이 마지막으로 **중단**되었던 지점 다음의 장소에서 실행을 **재개**한다
+![image](https://user-images.githubusercontent.com/28394879/146778353-0cb4f22d-8216-473a-a43b-e00807d7434f.png)
+
+- 코루틴은 협력작업, 예외, 이벤트 루프, 반복자, 무한 목록 및 파이프와 같은 친숙한 프로그램 구성 요소를 구현하는데 적합하다
+
+
+
 </details>
 
 
