@@ -26,6 +26,18 @@
 
 <details><summary> 자세히 보기 </summary>
 
+- Coroutine builder
+  - launch
+  - runBlocking
+- Scope
+  - CoroutineScope
+  - GlobalScope
+- Suspend function
+  - suspend
+  - delay()
+  - join()
+- Structed concurrency
+
 </details>
 
 
