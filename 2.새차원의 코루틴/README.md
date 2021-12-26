@@ -61,6 +61,18 @@
 
 <details><summary> 자세히 보기 </summary>
 
+- Async to sequential
+  - Sequential by default
+  - The Dream Code on Android
+
+- async
+  - Concurrent using async
+  - Lazily started async
+
+- Structured concurrency
+  - Async-style functions (strongly discouraged)
+  - Structured concurrency with async
+
 </details>
 
 
