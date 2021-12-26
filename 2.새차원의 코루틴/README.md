@@ -45,6 +45,15 @@
 
 <details><summary> 자세히 보기 </summary>
 
+- Job
+  - cancel()
+- Cancellation is cooperative
+  - way 1: to periodically invoke a suspending
+  - way 2: explicitly check the cancellation status (isActive)
+- Timeout
+  - withTimeout
+  - withTimeoutOrNull
+
 </details>
 
 
