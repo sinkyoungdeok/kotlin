@@ -80,6 +80,15 @@
 
 <details><summary> 자세히 보기 </summary>
 
+- There is no magic
+  - CPS == Callbacks
+  - CPS Transformation
+- Decompile
+  - Labels
+  - Callback
+- CPS simulation
+  - debugging
+
 </details>
 
 
