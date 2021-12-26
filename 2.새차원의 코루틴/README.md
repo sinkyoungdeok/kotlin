@@ -96,4 +96,22 @@
 
 <details><summary> 자세히 보기 </summary>
 
+### Dispatchers and threads
+- coroutine context는 coroutine dispatcher를 포함한다.
+- coroutine dispatcher는 어떤 스레드에서 실행될지를 결정한다.
+- 모든 코루틴 빌더들은 optional로 coroutineContext parameter를 가지고 있다.
+
+### 코루틴 디버깅 방법
+- JVM option에 -Dkotlinx.coroutines.debug 명령어를 추가 하면 됨 
+
+### 다룬내용
+- Dispatchers and threads
+- Debugging coroutines and threads
+- Jumping between threads
+- Job in the context
+- Children of a coroutine
+- Parental responsibilities
+- Combining context elements
+- Coroutine scope
+
 </details>
